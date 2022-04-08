@@ -1,2 +1,2 @@
 # acronis
-acronis bug bonty
+acronis bug bounty
